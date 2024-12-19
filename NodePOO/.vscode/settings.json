@@ -1,0 +1,4 @@
+{
+    "editor.defaultFormatter": "formulahendry.code-runner",
+    "notebook.defaultFormatter": "formulahendry.code-runner"
+}

@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "c5b10e7f-e8e5-40b1-929e-ec81118c82b0",
+      "name": "Caroline",
+      "age": 22
+    },
+    {
+      "id": "df3ae777-91cc-403a-8d81-143c4b9d89ea",
+      "name": "Douglas Marcelo Monquero",
+      "age": 48
+    },
+    {
+      "id": "a6ffe211-9760-476e-8a56-1fde13aa06e2",
+      "name": "Patricia Alves",
+      "age": 48
+    },
+    {
+      "id": "3ec6ee32-dd00-4145-adcf-6816b7cfe406",
+      "name": "Vanessa Monquero",
+      "age": 46
+    },
+    {
+      "id": "7a8c22c3-4c83-45a1-b245-043fc70c61ed",
+      "name": "Lucas Vinicius Monquero",
+      "age": 28
+    },
+    {
+      "id": "d2ad15b0-1122-4e32-9eb0-78d37fe30bc5",
+      "name": "Paulo de Tarso",
+      "age": 36
+    }
+  ]
+}
